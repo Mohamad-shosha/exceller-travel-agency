@@ -162,7 +162,7 @@ export default function ProfessionalTravelAgency() {
               </div>
               <div>
                 <span className="text-2xl font-serif font-bold bg-gradient-to-r from-blue-300 via-blue-200 to-purple-300 bg-clip-text text-transparent tracking-widest">
-                  Exceller
+                  Excelor
                 </span>
                 <p className="text-xs text-slate-400 font-light tracking-widest uppercase">
                   Premium Travel Experiences
