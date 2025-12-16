@@ -9,7 +9,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'Excelor - Premium Travel Experiences',
   icons: {
-    icon: '/icon.svg',
+    icon: '/screenshot.png',
   },
 }
 

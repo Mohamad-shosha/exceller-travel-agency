@@ -453,7 +453,7 @@ export default function ProfessionalTravelAgency() {
               Our Services
             </Badge>
             <h2 className="text-5xl md:text-7xl font-bold mb-8 font-serif tracking-tight text-white">
-              Why Choose Exceller?
+              Why Choose Excelor?
             </h2>
             <p className="text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed font-light">
               We provide comprehensive and premium travel services designed to make your journey seamless, memorable,
@@ -592,7 +592,7 @@ export default function ProfessionalTravelAgency() {
                     </div>
                     <div>
                       <p className="text-xs text-slate-400 uppercase tracking-wider">Email</p>
-                      <p className="text-white font-semibold">hello@exceller.com</p>
+                      <p className="text-white font-semibold">hello@excelor.com</p>
                     </div>
                   </div>
                 </div>
@@ -655,7 +655,7 @@ export default function ProfessionalTravelAgency() {
                 <div className="bg-gradient-to-br from-blue-400 to-purple-600 p-2 rounded-lg">
                   <Plane className="h-5 w-5 text-white" />
                 </div>
-                <span className="text-lg font-serif font-bold text-white">Exceller</span>
+                <span className="text-lg font-serif font-bold text-white">Excelor</span>
               </div>
               <p className="text-sm text-slate-400 leading-relaxed">
                 Creating unforgettable travel experiences across Egypt.
